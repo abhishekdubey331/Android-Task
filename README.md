@@ -10,13 +10,13 @@ Creating a one screen application, in which the user can search for the Github u
 4. RxJava
 
 ## Screenshot 1
-<img src="https://ibb.co/mhsapz" width="888">
+<img src="https://ibb.co/mhsapz">
 
 ## Screenshot 2
-<img src="https://ibb.co/ez5vpz" width="888">
+<img src="https://ibb.co/ez5vpz">
 
 ## Screenshot 3
-<img src="https://ibb.co/jQTFpz" width="888">
+<img src="https://ibb.co/jQTFpz">
 
 
 
