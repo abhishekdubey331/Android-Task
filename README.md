@@ -10,10 +10,10 @@ Creating a one screen application, in which the user can search for the Github u
 4. RxJava
 
 ## Screenshot 1
-<img src="https://github.com/abhishekdubey331/Android-Task/blob/master/attachments/first.jpg">
+<img src="https://github.com/abhishekdubey331/Android-Task/blob/master/attachments/first_.jpg">
 
 ## Screenshot 2
-<img src="https://github.com/abhishekdubey331/Android-Task/blob/master/attachments/second_.jpg">
+<img src="https://github.com/abhishekdubey331/Android-Task/blob/master/attachments/first.jpg">
 
 ## Screenshot 3
 <img src="https://github.com/abhishekdubey331/Android-Task/blob/master/attachments/third_.jpg">
